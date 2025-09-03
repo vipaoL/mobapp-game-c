@@ -1,0 +1,9 @@
+If:
+  PathMatch: .*\.(c|cpp|h|hpp)
+
+CompileFlags:
+  Add:
+    - --target=arm-none-eabi
+    - -Ibox2d/include
+    - -Ifpdoom/fpdoom
+    - -isystem/usr/arm-none-eabi/include

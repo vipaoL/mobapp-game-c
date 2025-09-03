@@ -1,0 +1,6 @@
+[submodule "fpdoom"]
+	path = fpdoom
+	url = https://github.com/ilyakurdyukov/fpdoom.git
+[submodule "box2d"]
+	path = box2d
+	url = https://github.com/erincatto/box2d.git
