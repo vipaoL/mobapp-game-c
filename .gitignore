@@ -1,6 +1,5 @@
-obj0
-*.bin
+build
+.cache
 workdir/spd_dump
-workdir/libc_server
 workdir/*.bin
 compile_commands.json
