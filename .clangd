@@ -7,3 +7,4 @@ CompileFlags:
     - -Ibox2d/include
     - -Ifpdoom/fpdoom
     - -isystem/usr/arm-none-eabi/include
+    - -include compat.h
