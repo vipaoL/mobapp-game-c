@@ -1,4 +1,11 @@
 {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": true,
+    "editor.autoIndent": "full",
+    "[markdown][plaintext][json]": {
+        "editor.insertSpaces": true
+    },
     "cmake.ignoreCMakeListsMissing": true,
     "C_Cpp.default.compilerPath": "/usr/bin/arm-none-eabi-gcc",
     "files.associations": {
